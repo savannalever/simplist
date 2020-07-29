@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/sassour525/project-3-simpList#readme",
   "dependencies": {
-    "auth0": "^2.20.0",
+    "auth0": "^2.27.1",
     "axios": "^0.19.0",
     "express": "^4.17.1",
     "mongo": "^0.1.0",
